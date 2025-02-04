@@ -1,0 +1,6 @@
+[build]
+publish = "public"
+command = "make doc"
+
+[context.production.environment]
+HUGO_VERSION = "v0.138.0"
