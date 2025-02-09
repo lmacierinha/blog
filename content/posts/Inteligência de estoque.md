@@ -21,7 +21,7 @@ Além disso, abordaremos como um software para otimização de estoques pode tra
 em um ativo estratégico.
 
 
-Como a Inteligência de Estoque Funciona
+<h2>Como a Inteligência de Estoque Funciona</h2>
 
 
 A inteligência de estoque combina ferramentas tecnológicas e práticas baseadas em dados para oferecer uma solução eficiente e 
