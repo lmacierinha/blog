@@ -7,7 +7,7 @@ tags: ["Inteligência de estoque", "comprador inteligente"]
 ---
 
 
-Inteligência de Estoque: Transforme seu Estoque em um Ativo Estratégico
+<h1>Inteligência de Estoque: Transforme seu Estoque em um Ativo Estratégico</h1>
 
 
 A gestão de estoques é um dos maiores desafios enfrentados por empresas de varejo e atacado. 
