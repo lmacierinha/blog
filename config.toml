@@ -1,5 +1,5 @@
 baseURL = "http://localhost"
-title = "Blog Dynalug.com"
+title = "Blog Dynalung.com"
 theme = "hugo-geekblog"
 
 pluralizeListTitles = false
