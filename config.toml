@@ -43,3 +43,5 @@ disablePathToLower = true
   taxonomy = ["HTML"]
   term = ["HTML", "ATOM"]
 
+[params]
+  logo = "/images/Logo-Dynalung-Branco.png"
