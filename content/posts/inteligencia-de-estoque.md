@@ -3,7 +3,9 @@ title: "Inteligência de Estoque"
 date: 2025-02-03
 draft: false
 tags: ["Inteligência de estoque", "Comprador Inteligente"]
+featured_image: "/images/inteligencia-estoque-banner.png"
 ---
+![Inteligência de Estoque](/images/inteligencia-estoque-banner.png)
 
 # Inteligência de Estoque: Transforme seu Estoque em um Ativo Estratégico  
 
