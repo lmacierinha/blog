@@ -110,13 +110,3 @@ A **inteligência de estoque** não é apenas uma tendência, mas uma necessidad
 ### Tem dúvidas sobre isso?  
 
 **Entre em contato com a gente** e descubra como a **Dynalung** pode ajudar sua empresa a alcançar resultados extraordinários. 🚀  
-{{
-<!-- Google tag (gtag.js) -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=G-MJTP7FFNW0"></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag(){dataLayer.push(arguments);}
-		gtag('js', new Date());
-
-		gtag('config', 'G-MJTP7FFNW0');
-	</script>}}
